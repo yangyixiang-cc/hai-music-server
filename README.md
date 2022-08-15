@@ -5,7 +5,7 @@
 # 使用
 1. 克隆本项目
 ```shell
-git clone 
+git clone https://github.com/yangyixiang-cc/hai-music-server.git
 ```
 2. 加载maven
 3. 导入sql文件至MySQL
